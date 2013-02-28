@@ -17,3 +17,17 @@
 {"ts":1362077754842,"patch":[[{"diffs":[[0,"ush -f \""],[1,"name of push"],[0,"\"\n"]],"start1":176,"start2":176,"length1":10,"length2":22}]],"length":198,"saved":false}
 {"ts":1362077756364,"patch":[[{"diffs":[[0," push -f \"name of push\"\n"],[1,"\n\n"]],"start1":174,"start2":174,"length1":24,"length2":26}]],"length":200,"saved":false}
 {"ts":1362077772126,"patch":[[{"diffs":[[0,"push\"\n\n\n"],[1,"// to stage the push use this\ngit add -A && git commit"]],"start1":192,"start2":192,"length1":8,"length2":62}]],"length":254,"saved":false}
+{"ts":1362077928244,"patch":[[{"diffs":[[0,"e.git\n\n\n"],[1,"\n\n"],[0,"// to pu"]],"start1":80,"start2":80,"length1":16,"length2":18}]],"length":256,"saved":false}
+{"ts":1362077929335,"patch":[[{"diffs":[[0,"e.git\n\n\n"],[1,"git add -A && git commit"],[0,"\n\n// to "]],"start1":80,"start2":80,"length1":16,"length2":40}]],"length":280,"saved":false}
+{"ts":1362077934332,"patch":[[{"diffs":[[0," add -A "],[-1,"&& git commit"],[0,"\n\n// to "]],"start1":91,"start2":91,"length1":29,"length2":16}]],"length":267,"saved":false}
+{"ts":1362077935274,"patch":[[{"diffs":[[0,"dd -A \n\n"],[1,"\n\n"],[0,"// to pu"]],"start1":93,"start2":93,"length1":16,"length2":18}]],"length":269,"saved":false}
+{"ts":1362077935919,"patch":[[{"diffs":[[0,"dd -A \n\n"],[1,"gi"],[0,"\n\n// to "]],"start1":93,"start2":93,"length1":16,"length2":18}]],"length":271,"saved":false}
+{"ts":1362077937007,"patch":[[{"diffs":[[0," -A \n\ngi"],[1,"t "],[0,"\n\n// to "]],"start1":95,"start2":95,"length1":16,"length2":18}]],"length":273,"saved":false}
+{"ts":1362077938779,"patch":[[{"diffs":[[0,"A \n\ngit "],[1,"commit -"],[0,"\n\n// to "]],"start1":97,"start2":97,"length1":16,"length2":24}]],"length":281,"saved":false}
+{"ts":1362077939381,"patch":[[{"diffs":[[0,"commit -"],[1,"a"],[0,"\n\n// to "]],"start1":105,"start2":105,"length1":16,"length2":17}]],"length":282,"saved":false}
+{"ts":1362077941159,"patch":[[{"diffs":[[0,"ommit -a"],[1,"m \"\""],[0,"\n\n// to "]],"start1":106,"start2":106,"length1":16,"length2":20}]],"length":286,"saved":false}
+{"ts":1362077944138,"patch":[[{"diffs":[[0,"it -am \""],[1,"commit name"],[0,"\"\n\n// to"]],"start1":109,"start2":109,"length1":16,"length2":27}]],"length":297,"saved":false}
+{"ts":1362077946951,"patch":[[{"diffs":[[0," name\"\n\n"],[1,"\n\n"],[0,"// to pu"]],"start1":123,"start2":123,"length1":16,"length2":18}]],"length":299,"saved":false}
+{"ts":1362077953220,"patch":[[{"diffs":[[0,"t name\"\n"],[1,"git push \"name of push\""],[0,"\n\n\n// to"]],"start1":122,"start2":122,"length1":16,"length2":39}]],"length":322,"saved":false}
+{"ts":1362077958131,"patch":[[{"diffs":[[0,"\"\n\n\n"],[-1,"// to push files use this\ngit push \"name of push\"\n// I have had to force push with git push -f \"name of push\"\n\n\n// to stage the push use this\ngit add -A && git commit"]],"start1":152,"start2":152,"length1":170,"length2":4}]],"length":156,"saved":false}
+{"ts":1362077959464,"patch":[[{"diffs":[[0,"f push\"\n"],[-1,"\n\n"]],"start1":146,"start2":146,"length1":10,"length2":8}]],"length":154,"saved":false}
