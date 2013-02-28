@@ -10,3 +10,4 @@
 {"ts":1362076100976,"patch":[[{"diffs":[[0,"ote add "],[-1,"["],[0,"ExtJsClo"]],"start1":1038,"start2":1038,"length1":17,"length2":16}]],"length":1146,"saved":false}
 {"ts":1362076144100,"patch":[[{"diffs":[[0,"oding!\n\ngit "],[-1,"remote"],[1,"push"],[0," add ExtJsCl"]],"start1":1023,"start2":1023,"length1":30,"length2":28}]],"length":1144,"saved":false}
 {"ts":1362076147400,"patch":[[{"diffs":[[0,"it push "],[-1,"add "],[0,"ExtJsClo"]],"start1":1032,"start2":1032,"length1":20,"length2":16}]],"length":1140,"saved":false}
+{"ts":1362078012802,"patch":[[{"diffs":[[0,"ng!\n"],[-1,"\ngit push ExtJsCloud9NodeProjectTemplate https://github.com/calexanderbynum/ExtJsCloud9NodeProjectTemplate.git"]],"start1":1026,"start2":1026,"length1":114,"length2":4}]],"length":1030,"saved":false}

@@ -5,7 +5,7 @@ go to firefox button, on very top left in orange: click addons
 in the search box search for firebug
 install the firebug addon. not any of the other firebug helper tools, just the firebug
 
-ui url:  http://alexandandrew.cabynum.c9.io/default.html
+ui url:  http://alexandandrew.cabynum.c9.io/projects/default.html
 
 On the UI page, in firefox with firebug, you should see a bug symbol to the far right of the address bar of your browser
 click that to open up the firebug console at the bottom of your browser

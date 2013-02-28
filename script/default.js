@@ -18,7 +18,7 @@ function exampleAjaxCall(){
     
 
 Ext.Ajax.request({
-            url: '/',
+            url: 'ajaxHandler',
             success: function (response) { // success here is based on a 200 code from server, nothing more
                var decodedResponse = Ext.decode(response.responseText);
                 console.log('response data::', decodedResponse); // check it in console :: json is sweet
