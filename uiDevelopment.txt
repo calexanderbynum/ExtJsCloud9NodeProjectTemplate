@@ -1,0 +1,42 @@
+**** FOR UI DEVELOPMENT*****
+
+download firefox
+go to firefox button, on very top left in orange: click addons
+in the search box search for firebug
+install the firebug addon. not any of the other firebug helper tools, just the firebug
+
+ui url:  http://alexandandrew.cabynum.c9.io/default.html
+
+On the UI page, in firefox with firebug, you should see a bug symbol to the far right of the address bar of your browser
+click that to open up the firebug console at the bottom of your browser
+
+thre is a console button, click the arrow thing and enable the console
+do the same for all the tabs next to console
+
+With the console tab open refresh the UI page.
+
+You should get a message saying hello there.  Check the default.js in the scripts folder to find whre that lives.
+You can javascript code in the console.  try something like 1 + 1 = 2;  or var test = 'andrew'; then enter test and see what spits out
+
+You can modify the default.js file while the server is running.  To see your changes you have to refresh your firefox browser.
+Make sure your changes are saved on the cloud 9 side befroe reloading browser, or you changes wont be there.
+
+For kick and giggles you can go to firebug's scrip tab.  the next line under the tab is an all button, and to the right of that is
+a different button.  click that different button (text may vary) and find and select default.js
+Interesting, ya
+
+Also, open the net tab and reload the page, and look at that
+
+
+Once you are finished playing with the net thing, go back to the console and type this:
+Ext.getCmp('regionWest')
+
+click on the results to get the JSON of the object. Notice it takes you ot the DOM tab.  The JSON object lives in the DOM
+DOM is document object model.  A web page is basically 1 big document.  (hence text in notepad.)
+
+Now, do Ext.getCmp('regionWest').hide();
+cool
+now Ext.getCmp('regionWest').show()
+cool too.  be sure to use the ;,  I get sloppy sometimes in the console.
+
+DON' USE ; FOLLOWING THE CLOSING } FOR FUNCTIONS EVAR

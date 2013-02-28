@@ -1,0 +1,61 @@
+User Interface documentation: Sencha's ExtJs
+
+http://docs.sencha.com/ext-js/4-1/#!/api/Ext.Component
+
+Node.js api documentation
+
+http://nodejs.org/api/
+
+JSON lint: great parser for JSON: javascript object notation
+
+http://jsonlint.com/
+(json exmaple below: won't work with json lint)
+{json: 'is this', items:[{name: 'item 1'}, {name: item2}]}
+
+Mongo db tutorial:
+
+http://docs.mongodb.org/manual/tutorial/getting-started/
+
+Mongo DB api documentation: javascript section for the shell
+
+http://api.mongodb.org/
+
+setup procedures for mongo db:
+
+http://blog.mongohq.com/blog/2011/10/23/introduction_to_cloud9_and_mongodb/
+
+
+** TUTORIAL FOR YOU ANDREW **
+
+http://www.crunchzilla.com/code-monster
+
+
+*******
+
+bash scripting guide:  for the console/terminal.  (bottom right corner green and black button)
+
+http://tldp.org/LDP/abs/html/
+
+
+To test the running server go to index.js in folder node.js and click the run button
+In a browser paste this url and hit enter(this is for ajax type requests, google it.  For web services: RESTful web services):
+
+http://alexandandrew.cabynum.c9.io/?xaction=test&name=july
+(keep an eye on the console for this one: I will make a button with ajax calls to server for you to play with on the UI)
+
+For the UI go to this url:
+
+http://alexandandrew.cabynum.c9.io/default.html
+
+To modify the ui go to script/default.js and mofidy the file there
+Ignore the yellow warning symbols for the Ext piece, the IDE assumes we are coding for Node.js, not server the .js files to a browser
+
+
+Don't touch the server.js, router.js or index.js files right now.  I will be working on creating a much better webserver/file server
+right now the server is sloppy
+
+
+
+
+
+

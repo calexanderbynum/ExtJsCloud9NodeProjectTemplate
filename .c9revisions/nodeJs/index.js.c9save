@@ -1,0 +1,11 @@
+{"ts":1361996094653,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1361996097943,"patch":[[{"diffs":[[1,"var server = require(\"./server\");\r\n\r\nserver.start();"]],"start1":0,"start2":0,"length1":0,"length2":52}]],"length":52,"saved":false}
+{"ts":1361996588461,"patch":[[{"diffs":[[0,"ver\");\r\n"],[1,"var router = require(\"./router\");\r\n\r\n"],[0,"\r\nserver"]],"start1":27,"start2":27,"length1":16,"length2":53}]],"length":89,"saved":false}
+{"ts":1361996592102,"patch":[[{"diffs":[[0,"r.start("],[1,"router"],[0,");"]],"start1":79,"start2":79,"length1":10,"length2":16}]],"length":95,"saved":false}
+{"ts":1361996595390,"patch":[[{"diffs":[[0,"tart(rou"],[-1,"ter"],[0,");"]],"start1":82,"start2":82,"length1":13,"length2":10}]],"length":92,"saved":false}
+{"ts":1361996597730,"patch":[[{"diffs":[[0,"tart(rou"],[1,"ter.rout"],[0,");"]],"start1":82,"start2":82,"length1":10,"length2":18}]],"length":100,"saved":false}
+{"ts":1361996598962,"patch":[[{"diffs":[[0,"ter.rout"],[1,"e"],[0,");"]],"start1":90,"start2":90,"length1":10,"length2":11}]],"length":101,"saved":false}
+{"ts":1361997108778,"patch":[[{"diffs":[[0,"ver\");\r\n"],[1,"//"],[0,"var rout"]],"start1":27,"start2":27,"length1":16,"length2":18}]],"length":103,"saved":false}
+{"ts":1361997114179,"patch":[[{"diffs":[[0,");\r\n\r\n\r\n"],[1,"//"],[0,"server.s"]],"start1":68,"start2":68,"length1":16,"length2":18}]],"length":105,"saved":false}
+{"ts":1361997116007,"patch":[[{"diffs":[[0,".route);"],[1,"\r\nserver.start(router.route);"]],"start1":97,"start2":97,"length1":8,"length2":37}]],"length":134,"saved":false}
+{"ts":1361997120972,"patch":[[{"diffs":[[0,";\r\nserver.start("],[-1,"router.route"],[0,");"]],"start1":104,"start2":104,"length1":30,"length2":18}]],"length":122,"saved":false}
