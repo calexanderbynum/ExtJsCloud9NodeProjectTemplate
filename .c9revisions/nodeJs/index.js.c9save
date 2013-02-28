@@ -37,3 +37,7 @@
 {"ts":1362081730854,"patch":[[{"diffs":[[0,"\r\n\r\n"],[-1,"console.log(restProcessor);"],[0,"\r\nse"]],"start1":117,"start2":117,"length1":35,"length2":8}]],"length":199,"saved":false}
 {"ts":1362081905262,"patch":[[{"diffs":[[0,");\r\n"],[-1,"var restProcessor = require(\"./restProcessor\");"],[0,"\r\n\r\n"]],"start1":66,"start2":66,"length1":55,"length2":8}]],"length":152,"saved":false}
 {"ts":1362081997320,"patch":[[{"diffs":[[0,"oute"],[-1,", restProcessor.processRequest"],[0,");\r\n"]],"start1":97,"start2":97,"length1":38,"length2":8}]],"length":122,"saved":false}
+{"ts":1362083471854,"patch":[[{"diffs":[[0,");\r\n\r\n\r\n"],[1,"console.log"],[0,"\r\nserver"]],"start1":66,"start2":66,"length1":16,"length2":27}]],"length":133,"saved":false}
+{"ts":1362083472787,"patch":[[{"diffs":[[0,"sole.log"],[1,"();"],[0,"\r\nserver"]],"start1":77,"start2":77,"length1":16,"length2":19}]],"length":136,"saved":false}
+{"ts":1362083476958,"patch":[[{"diffs":[[0,"ole.log("],[1,"test()"],[0,");\r\nserv"]],"start1":78,"start2":78,"length1":16,"length2":22}]],"length":142,"saved":false}
+{"ts":1362083496278,"patch":[[{"diffs":[[0,"\r\n\r\n"],[-1,"console.log(test());"],[0,"\r\nse"]],"start1":70,"start2":70,"length1":28,"length2":8}]],"length":122,"saved":false}

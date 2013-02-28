@@ -1,13 +1,17 @@
+// globals
+var responseText;
+
+
+// only exported function
 function process(request, response, params, show_404) {
 
-    var responseText;
+    
     var xaction = params.xaction;
-
 
     switch (xaction) {
 
     case 'actionToDo':
-        actionToDo(params);
+        actionToDo(request, response, params);
         break;
 
     default:
@@ -18,15 +22,17 @@ function process(request, response, params, show_404) {
 
 
 
+}
 
-function actionToDo(){
+
+// private methods
+function actionToDo(request, response, params){
     responseText = JSON.stringify(params);
     response.write(responseText);
     response.end();
-    
 }
 
-}
+
 
 
 exports.process = process;
