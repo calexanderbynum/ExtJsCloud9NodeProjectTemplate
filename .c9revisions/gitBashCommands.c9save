@@ -1,0 +1,19 @@
+{"ts":1362077705475,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1362077706641,"patch":[[{"diffs":[[1,"git@github.com:calexanderbynum/ExtJsCloud9NodeProjectTemplate.git"]],"start1":0,"start2":0,"length1":0,"length2":65}]],"length":65,"saved":false}
+{"ts":1362077712090,"patch":[[{"diffs":[[1,"\n\n"],[0,"git@gith"]],"start1":0,"start2":0,"length1":8,"length2":10}]],"length":67,"saved":false}
+{"ts":1362077715654,"patch":[[{"diffs":[[1,"git ssh repository"],[0,"\n\ngit@gi"]],"start1":0,"start2":0,"length1":8,"length2":26}]],"length":85,"saved":false}
+{"ts":1362077718892,"patch":[[{"diffs":[[0,"late.git"],[1,"\n\n\n"]],"start1":77,"start2":77,"length1":8,"length2":11}]],"length":88,"saved":false}
+{"ts":1362077721282,"patch":[[{"diffs":[[0,"e.git\n\n\n"],[1,"git push "]],"start1":80,"start2":80,"length1":8,"length2":17}]],"length":97,"saved":false}
+{"ts":1362077724116,"patch":[[{"diffs":[[0,"it push "],[1,"-f"]],"start1":89,"start2":89,"length1":8,"length2":10}]],"length":99,"saved":false}
+{"ts":1362077725574,"patch":[[{"diffs":[[0,"ush "],[-1,"-f"]],"start1":93,"start2":93,"length1":6,"length2":4}]],"length":97,"saved":false}
+{"ts":1362077726587,"patch":[[{"diffs":[[0,"it push "],[1,"\"\""]],"start1":89,"start2":89,"length1":8,"length2":10}]],"length":99,"saved":false}
+{"ts":1362077729649,"patch":[[{"diffs":[[0,"t push \""],[1,"name of push"],[0,"\""]],"start1":90,"start2":90,"length1":9,"length2":21}]],"length":111,"saved":false}
+{"ts":1362077731504,"patch":[[{"diffs":[[0,"of push\""],[1,"\n"]],"start1":103,"start2":103,"length1":8,"length2":9}]],"length":112,"saved":false}
+{"ts":1362077737108,"patch":[[{"diffs":[[0,"e.git\n\n\n"],[1,"// to push files use this\n"],[0,"git push"]],"start1":80,"start2":80,"length1":16,"length2":42}]],"length":138,"saved":false}
+{"ts":1362077738882,"patch":[[{"diffs":[[0,"f push\"\n"],[1,"//\n"]],"start1":130,"start2":130,"length1":8,"length2":11}]],"length":141,"saved":false}
+{"ts":1362077743970,"patch":[[{"diffs":[[0,"push\"\n//"],[1," I have had to force push with "],[0,"\n"]],"start1":132,"start2":132,"length1":9,"length2":40}]],"length":172,"saved":false}
+{"ts":1362077748790,"patch":[[{"diffs":[[0,"sh with "],[1,"git push "],[0,"\n"]],"start1":163,"start2":163,"length1":9,"length2":18}]],"length":181,"saved":false}
+{"ts":1362077750808,"patch":[[{"diffs":[[0,"it push "],[1,"-f \"\""],[0,"\n"]],"start1":172,"start2":172,"length1":9,"length2":14}]],"length":186,"saved":false}
+{"ts":1362077754842,"patch":[[{"diffs":[[0,"ush -f \""],[1,"name of push"],[0,"\"\n"]],"start1":176,"start2":176,"length1":10,"length2":22}]],"length":198,"saved":false}
+{"ts":1362077756364,"patch":[[{"diffs":[[0," push -f \"name of push\"\n"],[1,"\n\n"]],"start1":174,"start2":174,"length1":24,"length2":26}]],"length":200,"saved":false}
+{"ts":1362077772126,"patch":[[{"diffs":[[0,"push\"\n\n\n"],[1,"// to stage the push use this\ngit add -A && git commit"]],"start1":192,"start2":192,"length1":8,"length2":62}]],"length":254,"saved":false}

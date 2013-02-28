@@ -1,0 +1,12 @@
+git ssh repository
+
+git@github.com:calexanderbynum/ExtJsCloud9NodeProjectTemplate.git
+
+
+// to push files use this
+git push "name of push"
+// I have had to force push with git push -f "name of push"
+
+
+// to stage the push use this
+git add -A && git commit
