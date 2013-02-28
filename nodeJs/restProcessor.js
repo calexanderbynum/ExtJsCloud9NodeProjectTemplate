@@ -1,10 +1,10 @@
 // globals
 var responseText;
-
+var error;
 
 // only exported function
 function process(request, response, params, show_404) {
-
+error = show_404;
     
     var xaction = params.xaction;
 
@@ -19,16 +19,19 @@ function process(request, response, params, show_404) {
         break;
 
     }
-
-
-
 }
 
 
 // private methods
 function actionToDo(request, response, params){
+    try{
     responseText = JSON.stringify(params);
     response.write(responseText);
+    }catch(e){
+        
+        error(request, response);
+    }
+    // finally : prevent memory leaks?
     response.end();
 }
 

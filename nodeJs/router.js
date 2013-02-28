@@ -1,3 +1,7 @@
+// spits routes do different classes based on type of request to server
+// all but the ajax model currently embedded into here, may take file server out next
+// then do web socket piece after that
+
 var restProcessor = require("./restProcessor");
 
 var url = require("url");
@@ -6,7 +10,7 @@ var queryString = require("querystring");
 var fs = require('fs');
 
 
-var mimeTypes = {
+var mimeTypes = {  // these are the only file extensions served you can get around this by ajax requesting and streaming
     "html": "text/html",
     "jpeg": "image/jpeg",
     "jpg": "image/jpeg",
