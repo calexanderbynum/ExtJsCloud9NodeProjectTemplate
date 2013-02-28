@@ -40,3 +40,15 @@
 {"ts":1362080955839,"patch":[[{"diffs":[[0,"it -am \""],[-1,"commit name"],[1,"backup push"],[0,"\" && git"]],"start1":177,"start2":177,"length1":27,"length2":27}]],"length":224,"saved":false}
 {"ts":1362080961453,"patch":[[{"diffs":[[0,"h\" && git push \""],[-1,"name of"],[1,"backup"],[0," push\""]],"start1":195,"start2":195,"length1":29,"length2":28}]],"length":223,"saved":false}
 {"ts":1362081039796,"patch":[[{"diffs":[[0,"it push "],[-1,"\"backup push\""],[1,"git@github.com:calexanderbynum/ExtJsCloud9NodeProjectTemplate.git "]],"start1":202,"start2":202,"length1":21,"length2":74}]],"length":276,"saved":false}
+{"ts":1362081064497,"patch":[[{"diffs":[[1,"\n\n"],[0,"git ssh repo"]],"start1":0,"start2":0,"length1":12,"length2":14}]],"length":278,"saved":false}
+{"ts":1362081068264,"patch":[[{"diffs":[[1,"run commands from root\n\nc"],[0,"\n\ngit ssh re"]],"start1":0,"start2":0,"length1":12,"length2":37}]],"length":303,"saved":false}
+{"ts":1362081069663,"patch":[[{"diffs":[[0," root\n\nc"],[1,"d "],[0,"\n\ngit ss"]],"start1":17,"start2":17,"length1":16,"length2":18}]],"length":305,"saved":false}
+{"ts":1362081071200,"patch":[[{"diffs":[[0,"oot\n\ncd "],[1,"folderNa"],[0,"\n\ngit ss"]],"start1":19,"start2":19,"length1":16,"length2":24}]],"length":313,"saved":false}
+{"ts":1362081072918,"patch":[[{"diffs":[[0,"folderNa"],[1,"me for "],[0,"\n\ngit ss"]],"start1":27,"start2":27,"length1":16,"length2":23}]],"length":320,"saved":false}
+{"ts":1362081077142,"patch":[[{"diffs":[[0,"ame for "],[1,"move to folder:  dos li"],[0,"\n\ngit ss"]],"start1":34,"start2":34,"length1":16,"length2":39}]],"length":343,"saved":false}
+{"ts":1362081081397,"patch":[[{"diffs":[[0,"  dos li"],[1,"ke, from when we were kids ya\ncd"],[0,"\n\ngit ss"]],"start1":57,"start2":57,"length1":16,"length2":48}]],"length":375,"saved":false}
+{"ts":1362081083277,"patch":[[{"diffs":[[0,"ds ya\ncd"],[1," .. for "],[0,"\n\ngit ss"]],"start1":89,"start2":89,"length1":16,"length2":24}]],"length":383,"saved":false}
+{"ts":1362081086036,"patch":[[{"diffs":[[0," .. for "],[1,"up a level, "],[0,"\n\ngit ss"]],"start1":97,"start2":97,"length1":16,"length2":28}]],"length":395,"saved":false}
+{"ts":1362081088288,"patch":[[{"diffs":[[0," level, "],[1,"dos version i"],[0,"\n\ngit ss"]],"start1":109,"start2":109,"length1":16,"length2":29}]],"length":408,"saved":false}
+{"ts":1362081090595,"patch":[[{"diffs":[[0,"ersion i"],[1,"s cd..  "],[0,"\n\ngit ss"]],"start1":122,"start2":122,"length1":16,"length2":24}]],"length":416,"saved":false}
+{"ts":1362081099058,"patch":[[{"diffs":[[0,"s cd..  "],[1,"so add the space for linux bash console stuffs"],[0,"\n\ngit ss"]],"start1":130,"start2":130,"length1":16,"length2":62}]],"length":462,"saved":false}

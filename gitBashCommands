@@ -1,3 +1,8 @@
+run commands from root
+
+cd folderName for move to folder:  dos like, from when we were kids ya
+cd .. for up a level, dos version is cd..  so add the space for linux bash console stuffs
+
 git ssh repository
 
 git@github.com:calexanderbynum/ExtJsCloud9NodeProjectTemplate.git

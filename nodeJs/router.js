@@ -1,3 +1,5 @@
+var restProcessor = require("./restProcessor");
+
 var url = require("url");
 var path = require('path');
 var queryString = require("querystring");
@@ -48,13 +50,13 @@ function ajaxHandler(request, response) {
             });
 
             request.on('end', function() {
-                params = JSON.stringify(queryString.parse(body));
+//                params = JSON.stringify(queryString.parse(body));
+                params = queryString.parse(body);
                 console.log('request::', params);
                 response.writeHead(200, {
                     'Content-Type': 'text/html'
                 });
-                response.write(params);
-                response.end();
+                restProcessor.process(request, response, params, show_404);
             }); // closes the end event handler
 
         }
@@ -81,7 +83,7 @@ function serveFile(request, response) {
         var mimeType = mimeTypes[path.extname(filename).split(".")[1]];
 
         if(mimeType === undefined){ // only serve files of types you want to serve:: white list approach
-            show_404(request, response);            
+            show_404(request, response);
         }
 
         fs.exists(filename, function(exists) {
