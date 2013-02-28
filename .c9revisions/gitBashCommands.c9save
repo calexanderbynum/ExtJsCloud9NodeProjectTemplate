@@ -39,3 +39,4 @@
 {"ts":1362080944826,"patch":[[{"diffs":[[0,"t name\" "],[1,"&& git push \"name of push\""]],"start1":190,"start2":190,"length1":8,"length2":34}]],"length":224,"saved":false}
 {"ts":1362080955839,"patch":[[{"diffs":[[0,"it -am \""],[-1,"commit name"],[1,"backup push"],[0,"\" && git"]],"start1":177,"start2":177,"length1":27,"length2":27}]],"length":224,"saved":false}
 {"ts":1362080961453,"patch":[[{"diffs":[[0,"h\" && git push \""],[-1,"name of"],[1,"backup"],[0," push\""]],"start1":195,"start2":195,"length1":29,"length2":28}]],"length":223,"saved":false}
+{"ts":1362081039796,"patch":[[{"diffs":[[0,"it push "],[-1,"\"backup push\""],[1,"git@github.com:calexanderbynum/ExtJsCloud9NodeProjectTemplate.git "]],"start1":202,"start2":202,"length1":21,"length2":74}]],"length":276,"saved":false}

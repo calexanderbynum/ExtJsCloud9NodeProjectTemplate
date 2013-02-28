@@ -8,4 +8,4 @@ git add -A
 git commit -am "commit name"
 git push "name of push"
 
-git add -A && git commit -am "backup push" && git push "backup push"
+git add -A && git commit -am "backup push" && git push git@github.com:calexanderbynum/ExtJsCloud9NodeProjectTemplate.git 
